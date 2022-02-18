@@ -31,7 +31,7 @@ templates_path = ['_templates']
 
 html_theme = 'classic',
 html_theme_options = {
-    "bgcolor": "8a2be2",
+    "background-color": "8a2be2",
     "textcolor": "black",
 }
 
