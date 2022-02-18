@@ -15,7 +15,7 @@ how to :ref:`installation` the project.
    
 .. warning::
 
-Trespassers will be shot! Survivors will be shot again!
+   Trespassers will be shot! Survivors will be shot again!
 
 Contents
 --------
