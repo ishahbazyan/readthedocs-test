@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = "sphinx-rtd-theme",
+html_theme = "sphinx-rtd-theme"
 # html_theme = 'css/custom.css'
 # html_theme_options = {
 #    "background-color": "8a2be2",
