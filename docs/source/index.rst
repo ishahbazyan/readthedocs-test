@@ -12,6 +12,10 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+.. warning::
+
+Trespassers will be shot! Survivors will be shot again!
 
 Contents
 --------
