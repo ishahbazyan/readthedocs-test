@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    
-.. tip::
+.. warning::
 
    Trespassers will be shot! Survivors will be shot again!
    
