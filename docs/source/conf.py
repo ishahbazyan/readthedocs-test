@@ -29,8 +29,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# html_theme = 'classic',
-html_theme = 'css/custom.css'
+html_theme = 'sphinx_rtd_theme',
+# html_theme = 'css/custom.css'
 # html_theme_options = {
 #    "background-color": "8a2be2",
 #    "textcolor": "black",
